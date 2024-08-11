@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=userofmeet" alt="userofmeet" /></a> </p>
 
-- 🔭 I’m currently working on [SUB-EX](https://drive.google.com/drive/folders/1--gNzvGMa0st0W7mWlEFIKzqeLOYO02-?usp=sharing)
+- 🔭 I’m currently working on [SUB-EX]([https://drive.google.com/drive/folders/1--gNzvGMa0st0W7mWlEFIKzqeLOYO02-?usp=sharing](https://github.com/userofmeet/SUB-EX/tree/main))
 
-- 🌱 I’m currently learning **Verilog and Scilab**
+- 🌱 I’m currently learning **Assembly**
 
-- 🤝 I’m looking for help with **complex programming**
+- 🤝 I’m looking for help with **Raspberry Pi and Image Processing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/userofmeet](https://github.com/userofmeet)
 
-- 💬 Ask me about **Drone coding, Flight controllers, Arduino, Technical ECE subjects**
+- 💬 Ask me about **Drone coding, Flight controllers, Microcontrollers and Technical knowledge**
 
 - 📫 How to reach me **meetjain538@gmail.com**
 
