@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=userofmeet" alt="userofmeet" /></a> </p>
 
-- 🔭 I’m currently working on [X-CAM](https://drive.google.com/drive/folders/1--gNzvGMa0st0W7mWlEFIKzqeLOYO02-?usp=sharing)
+- 🔭 I’m currently working on [SUB-EX](https://drive.google.com/drive/folders/1--gNzvGMa0st0W7mWlEFIKzqeLOYO02-?usp=sharing)
 
 - 🌱 I’m currently learning **Verilog and Scilab**
 
