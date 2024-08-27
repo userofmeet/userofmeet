@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **Raspberry Pi and Image Processing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/userofmeet](https://github.com/userofmeet)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/userofmeet)
 
-- 💬 Ask me about **Drone coding, Flight controllers, Microcontrollers and Technical knowledge**
+- 💬 Ask me about **ECE Programming, Microcontrollers and Technical Stuff**
 
 - 📫 How to reach me **meetjain538@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1hlaHpxEATrzDAkakgD_kuz4olecbKibD](https://drive.google.com/drive/folders/1hlaHpxEATrzDAkakgD_kuz4olecbKibD)
+- 📄 Know about my experiences [Proof of work](https://drive.google.com/drive/folders/1hlaHpxEATrzDAkakgD_kuz4olecbKibD)
 
 - 📄 Resume **https://drive.google.com/file/d/1YCWqmmNuAKSuaaQ45zl-0SK68gB8fu9U/view?usp=sharing**
 
