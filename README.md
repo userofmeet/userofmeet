@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meet Jain</h1>
-<h3 align="center">An accidental EC engineer from India</h3>
+<h3 align="center">An accidental EC engineer from INDIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=userofmeet&label=Profile%20views&color=010b13&style=flat" alt="userofmeet" /> </p>
 
