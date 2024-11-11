@@ -200,16 +200,23 @@ Meet Jain:
 <br>
 
 # 📊 My Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=userofmeet&theme=vision-friendly-dark&card_width=1010)](https://git.io/streak-stats)
+<div align="left">
   
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=userofmeet&layout=compact&theme=vision-friendly-dark&card_width=1010&border_color=FFFFFF)](https://github.com/userofmeet/github-readme-stats)
+  <!-- GitHub Streak -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=userofmeet&theme=vision-friendly-dark&card_width=850)](https://git.io/streak-stats)
+  
+  <!-- Top Languages -->
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=userofmeet&layout=compact&theme=vision-friendly-dark&card_width=850&border_color=FFFFFF)](https://github.com/userofmeet/github-readme-stats)
+  
+  <!-- GitHub Stats -->
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=userofmeet&theme=vision-friendly-dark&border_color=FFFFFF&card_width=850&show_icons=true)
+  
+  <!-- GitHub Activity Graph -->
+  [![Meet's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=userofmeet&theme=github-compact&height=350&title_color=ffa500)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=userofmeet&theme=vision-friendly-dark&border_color=FFFFFF&card_width=1010&show_icons=true)
+</div>
 
-[![Meet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=userofmeet&theme=github-compact&height=400&title_color=ffa500&)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!---
-Sree-Vishnu-Varthini/Sree-Vishnu-Varthini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+userofmeet/userofmeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 <h1>$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$ </h1>
 --->
