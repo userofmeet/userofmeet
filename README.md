@@ -39,21 +39,21 @@ Meet Jain:
   
     fields_of_interests:
       -  Embedded Design and Development Engineer
-      -  Applicartions Engineer 
+      -  Applications Engineer 
       -  Artificial Intelligence
   
     professional_affiliations:
       -  student_member: IEEE (Institute of Electrical and Electronics Engineers)
 
-    hobbies: [Cubing, Cycling, Trekking]
+    hobbies: [ Cubing, Cycling, Trekking ]
 ```
 
 
 <!--code: [HTML, CSS, Javascript, C, Python, Java],
   tools: [React, Node, Express],
   database: [MongoDB, MySQL],
-  I'm a Full-Stack Developer currently pursuing a Bachelor's degree in Engineering at Sri Eshwar College of Engineering in Coimbatore, India.
-- 💻 I'm proficient in both frontend and backend development, with experience in technologies like HTML, CSS, JavaScript and MERN Stack Technologies.
+  I'm a  currently pursuing a Bachelor's degree in Engineering at , India.
+- 💻 I'm proficient in development, with experience in technologies like Technologies.
 - 🌐 I love building dynamic and responsive web applications that deliver seamless user experiences.
 - 🚀 Always eager to collaborate on exciting projects and contribute to open-source communities.
 -->
