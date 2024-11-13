@@ -30,17 +30,30 @@ Meet Jain:
     skills:
       -  programming: [ Assembly, C, C++, Python, Scilab, Verilog ]
       -  technical_tools_and_platforms: [ Arduino, Ardupilot, Easy EDA, ESP 32, Flux AI, KiCAD, LTspice, Microwind, Multisim, OpenCV, QGroundControl, Raspberry PI ]
-  
-    education: 
-      - Bachelor's in Electronics and Communication Engineering
-      - Dharmsinh Desai University
-      - 2022 - 2026
-  
+
+    education:
+      - Bachelor's in Electronics and Communication Engineering:
+          institution: Dharmsinh Desai University
+          location: Nadiad, India
+          duration: 2022 - 2026
+          CGPA: 9.50/10
+
+      - 12th Board (CBSE):
+          institution: Green Valley High School
+          location: Vadodara, India
+          year: 2022
+          percentage: 61%
+
+      - 10th Board (CBSE):
+          institution: Prince Ashokraje Gaekwad School
+          location: Vadodara, India
+          year: 2020
+          percentage: 89.8%
   
     fields_of_interests:
       -  Embedded Design and Development Engineer
-      -  Applications Engineer 
-      -  Artificial Intelligence
+      -  Artificial Intelligence 
+      -  Robotics
   
     professional_affiliations:
       -  student_member: IEEE (Institute of Electrical and Electronics Engineers)
