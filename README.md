@@ -2,7 +2,9 @@
   Hello there! :wave: I'm Meet Jain
 </h1>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fuserofmeet%2Fuserofmeet%2Fgithub-visitors-badge&label=PROFILE%20VIEWS&labelColor=%23697689&countColor=%2302066f&style=default&labelStyle=none)
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=userofmeet&label=Profile%20views&color=010b13&style=flat" alt="userofmeet" style="width: 130px; height: auto;" />
+</p>
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZzMjQxeG5obnJ6N3E3czR2a2FrN204bndndXQ0a3U0OXZ3ejltdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="850"/> <br>
