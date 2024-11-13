@@ -80,7 +80,7 @@ Meet Jain:
     <li> Led the development and delivery of engaging presentations for workshops</li> 
   <li> Collaborated with a technical team to design and implement workshop content, including demonstrations and project builds </li>
   <li> Organized and conducted hands-on workshops, covering topics like microcontrollers, embedded systems, and robotics  </li> 
-  <li> <strong> Skills:</strong> <em> IAdaptable, Detail-oriented, Effective listener, Presentation, Troubleshooting, Latex, Overleaf </em></li>
+  <li> <strong> Skills:</strong> <em> Adaptable, Detail-oriented, Effective listener, Presentation, Troubleshooting, Latex, Overleaf </em></li>
 </details>
 <br>
 
@@ -133,13 +133,13 @@ Meet Jain:
   <img width=140px height=30px src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white&style=plastic">&nbsp;
   <img width=100px height=30px src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&style=plastic">&nbsp;
   <img width=100px height= 30px src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&style=plastic">&nbsp;
-  <img width=50px src="https://static-00.iconduck.com/assets.00/apps-arduino-icon-256x256-mp2raho4.png">&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;
+  <img width=50px height=50px src="https://static-00.iconduck.com/assets.00/apps-arduino-icon-256x256-mp2raho4.png">&nbsp;
+  <img width=50px height=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
+  <img width=50px height=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus">&nbsp;
+  <img width=50px height=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">&nbsp;
+  <img width=50px height=50px src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">&nbsp;
+  <img width=50px height=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
+  <img width=50px height=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;
 
   
   <!--<img width=120px height=30px src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&style=plastic">&nbsp;
