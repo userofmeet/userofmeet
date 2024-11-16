@@ -107,8 +107,8 @@ Meet Jain:
   <summary> Braille Bot </summary>
    <li></ul> Assistive device to help visually impaired individuals </li>
    <li>Interactive interface to navigate through letters and sentence </li>
-  <li> Allows adjustment of translation speed for personalized use </li>
-  <li> Enhances accessibility and inclusion </li>
+   <li> Allows adjustment of translation speed for personalized use </li>
+   <li> Enhances accessibility and inclusion </li>
    <li><strong>Tech Stack:</strong> <em>Arduino, Servo Motors</em> </li></ul> 
 </details>
 
