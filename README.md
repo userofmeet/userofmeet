@@ -52,8 +52,8 @@ Meet Jain:
   
     fields_of_interests:
       -  Embedded Design and Development Engineer
-      -  Artificial Intelligence 
-      -  Robotics
+      -  Robotics 
+      -  Artificial Intelligence
   
     professional_affiliations:
       -  student_member: IEEE (Institute of Electrical and Electronics Engineers)
