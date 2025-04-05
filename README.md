@@ -36,7 +36,7 @@ Meet Jain:
           institution: Dharmsinh Desai University
           location: Nadiad, India
           duration: 2022 - 2026
-          CGPA: 9.50/10
+          CGPA: 9.42/10
 
       - 12th Board (CBSE):
           institution: Green Valley High School
@@ -92,6 +92,15 @@ Meet Jain:
     <li> 3D-printed ROV for crack detection in submerged structures </li>
     <li> Designed to detect structural anomalies at an early stage </li> 
     <li> <strong>Tech Stack:</strong> <em> Arduino, ESP32, QGroundControl, OpenCV, Pixhawk flight controller, Python, Raspberry Pi</em></li></ul> 
+</details>
+
+<details>
+  <summary> ANAV </summary>
+    <ul><li>Autonomous Navigation for an Aerial Vehicle, IROC ISRO Challenge 2025</li>
+    <li> An autonomous navigation system for Martian environment</li>
+    <li>Implementing computer vision techniques for real-time crater detection to identify safe landing spots</li>
+    <li>Implementing computer vision techniques for real-time crater detection to identify safe landing spots</li>
+      <li>Tech Stack: IMU, MAVLink, OpenCV, Pixhawk flight controller, QGroundControl, Raspberry Pi 5</li></ul>
 </details>
 
 <details> 
