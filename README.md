@@ -75,11 +75,18 @@ Meet Jain:
 # :briefcase: Experience
 
 <details> 
+  <summary> Firmware Development Intern, Marshee Pet Tech </summary>
+  <ul>   <li> Developed embedded firmware in C/C++ for GPS, BLE, and UWB-based tracking systems </li> 
+    <li> Collaborated on real-time hardware integration and debugging for location-based pet safety. </li> 
+  <li> Collaborated with cross-functional teams and contributed to UI/UX integration for device interaction </li>
+  <li> <strong> Tech Stack: C/C++, BLE, GPS, UWB, FreeRTOS, Embedded Linux </em></li>
+</details>
+
+<details> 
   <summary> Presentation Head, Spectrum </summary>
-  <ul>   <li> Enhanced team coordination and presentation flow </li> 
-    <li> Led the development and delivery of engaging presentations for workshops</li> 
-  <li> Collaborated with a technical team to design and implement workshop content, including demonstrations and project builds </li>
-  <li> Organized and conducted hands-on workshops, covering topics like microcontrollers, embedded systems, and robotics  </li> 
+  <ul>   <li>Led and coordinated 10+ club events, engaging 50+ participants per event.</li>
+<li>Trained 5+ team members on effective presentation techniques enhancing clarity.</li>
+<li>Collaborated with 4+ department heads to align presentations with overall goals</li>
   <li> <strong> Skills:</strong> <em> Adaptable, Detail-oriented, Effective listener, Presentation, Troubleshooting, Latex, Overleaf </em></li>
 </details>
 <br>
