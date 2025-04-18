@@ -28,8 +28,9 @@ Meet Jain:
     title: Student
   
     skills:
-      -  programming: [ Assembly, C, C++, Python, Scilab, Verilog ]
-      -  technical_tools_and_platforms: [ Arduino, Ardupilot, Easy EDA, ESP 32, Flux AI, KiCAD, LTspice, Microwind, Multisim, OpenCV, QGroundControl, Raspberry PI ]
+      -  programming: [ Assembly, C, C++, Python, Verilog ]
+      -  technical_tools_and_platforms: [ Arduino, Ardupilot, Easy EDA, ESP 32, Flux AI, KiCAD, LTspice, Microwind, 
+                                          Multisim, OpenCV, QGroundControl, Raspberry PI, Scilab ]
 
     education:
       - Bachelor's in Electronics and Communication Engineering:
