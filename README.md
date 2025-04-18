@@ -30,7 +30,7 @@ Meet Jain:
     skills:
       -  programming: [ Assembly, C, C++, Python, Verilog ]
       -  technical_tools_and_platforms: [ Arduino, Ardupilot, Easy EDA, ESP 32, Flux AI, KiCAD, LTspice, Microwind, 
-                                          Multisim, OpenCV, QGroundControl, Raspberry PI, Scilab ]
+                                          Multisim, OpenCV, QGroundControl, Raspberry Pi, Scilab ]
 
     education:
       - Bachelor's in Electronics and Communication Engineering:
@@ -59,7 +59,7 @@ Meet Jain:
     professional_affiliations:
       -  student_member: IEEE (Institute of Electrical and Electronics Engineers)
 
-    hobbies: [ Cubing, Cycling, Trekking ]
+    hobbies: [ Cubing, Cycling, Gaming, Trekking ]
 ```
 
 
