@@ -29,7 +29,7 @@ Meet Jain:
   
     skills:
       -  programming: [ Assembly, C, C++, Python, Verilog ]
-      -  technical_tools_and_platforms: [ Arduino, Ardupilot, Easy EDA, ESP 32, Flux AI, KiCAD, LTspice, Microwind, 
+      -  technical_tools_and_platforms: [ Arduino, Ardupilot, Easy EDA, ESP 32, ESP-IDF, Flux AI, KiCAD, LTspice, Microwind, 
                                           Multisim, OpenCV, QGroundControl, Raspberry Pi, Scilab ]
 
     education:
@@ -37,7 +37,7 @@ Meet Jain:
           institution: Dharmsinh Desai University
           location: Nadiad, India
           duration: 2022 - 2026
-          CGPA: 9.42/10
+          CGPA: 9.22/10
 
       - 12th Board (CBSE):
           institution: Green Valley High School
