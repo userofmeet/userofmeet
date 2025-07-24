@@ -28,9 +28,9 @@ Meet Jain:
     title: Student
   
     skills:
-      -  programming: [ Assembly, C, C++, Python, Verilog ]
+      -  programming: [ C, C++, Python, Assembly, Verilog ]
       -  technical_tools_and_platforms: [ Arduino, Ardupilot, Easy EDA, ESP 32, ESP-IDF, Flux AI, KiCAD, LTspice, Microwind, 
-                                          Multisim, OpenCV, QGroundControl, Raspberry Pi, Scilab ]
+                                          Multisim, STM32, STM32CubeIDE, OpenCV, QGroundControl, Raspberry Pi, Scilab ]
 
     education:
       - Bachelor's in Electronics and Communication Engineering:
@@ -83,6 +83,7 @@ Meet Jain:
   <li> <strong> Tech Stack:</strong><em> C/C++, BLE, GPS, UWB, FreeRTOS, Embedded Linux </em></li>
 </details>
 
+# 📡 Extra Curricular activities
 <details> 
   <summary> Presentation Head, Spectrum </summary>
   <ul>   <li>Led and coordinated 10+ club events, engaging 50+ participants per event.</li>
@@ -150,7 +151,12 @@ Meet Jain:
   <img width=140px height=30px src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white&style=plastic">&nbsp;
   <img width=100px height=30px src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&style=plastic">&nbsp;
   <img width=100px height= 30px src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&style=plastic">&nbsp;
-  <img width=50px height=50px src="https://static-00.iconduck.com/assets.00/apps-arduino-icon-256x256-mp2raho4.png">&nbsp;
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Badge"/>
+  <img src="https://img.shields.io/badge/ESP32-EA4335?style=for-the-badge&logo=esphome&logoColor=white" alt="ESP32 Badge"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi Badge"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white" alt="STM32 Badge"/>
+  <img src="https://img.shields.io/badge/STM32CubeIDE-02569B?style=for-the-badge&logo=visualstudio&logoColor=white" alt="STM32CubeIDE Badge"/>
+
   <img width=50px height=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
   <img width=50px height=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus">&nbsp;
   <img width=50px height=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">&nbsp;
@@ -233,18 +239,19 @@ Meet Jain:
 
 # 📊 My Stats
 <div align="left">
-  
-  <!-- GitHub Streak -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=userofmeet&theme=vision-friendly-dark&card_width=850)](https://git.io/streak-stats)
-  
-  <!-- Top Languages -->
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=userofmeet&layout=compact&theme=vision-friendly-dark&card_width=850&border_color=FFFFFF)](https://github.com/userofmeet/github-readme-stats)
-  
-  <!-- GitHub Stats -->
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=userofmeet&theme=vision-friendly-dark&border_color=FFFFFF&card_width=850&show_icons=true)
-  
-  <!-- GitHub Activity Graph -->
-  [![Meet's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=userofmeet&theme=github-compact&height=350&title_color=ffa500)](https://github.com/ashutosh00710/github-readme-activity-graph)
+# 📊 My Stats
+
+<!-- GitHub Streak -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=userofmeet&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=userofmeet&show_icons=true&theme=vision-friendly-dark&border_color=FFFFFF)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=userofmeet&layout=compact&theme=vision-friendly-dark&border_color=FFFFFF)
+
+<!-- GitHub Activity Graph -->
+[![Meet's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=userofmeet&theme=github-compact&title_color=ffa500&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
