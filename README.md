@@ -81,11 +81,7 @@ Meet Jain:
     <li> Collaborated on real-time hardware integration and debugging for location-based pet safety. </li> 
   <li> Collaborated with cross-functional teams and contributed to UI/UX integration for device interaction </li>
   <li> <strong> Tech Stack:</strong><em> C/C++, BLE, GPS, UWB, FreeRTOS, Embedded Linux </em></li>
-</details>
-
-# 📡 Extra Curricular activities
-<details> 
-  <summary> Presentation Head, Spectrum </summary>
+  <summary> Presentation Head, Spectrum the Robotics Club </summary>
   <ul>   <li>Led and coordinated 10+ club events, engaging 50+ participants per event.</li>
 <li>Trained 5+ team members on effective presentation techniques enhancing clarity.</li>
 <li>Collaborated with 4+ department heads to align presentations with overall goals</li>
