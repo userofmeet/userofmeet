@@ -161,12 +161,15 @@ Meet Jain:
 ![QGroundControl](https://img.shields.io/badge/QGroundControl-1976D2?style=for-the-badge)
 ![MissionPlanner](https://img.shields.io/badge/MissionPlanner-0288D1?style=for-the-badge)
 ![KiCAD](https://img.shields.io/badge/KiCAD-314CB6?style=for-the-badge)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge)
+![Flux.ai](https://img.shields.io/badge/Flux.ai-FF6F61?style=for-the-badge)
 
 ### Office Tools:
 ![Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge)
 ![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge)
 ![Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge)
 
 </div>
 <br>
