@@ -188,17 +188,19 @@ Meet Jain:
 
 
 <!-- GitHub Streak -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=userofmeet&theme=vision-friendly-dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=userofmeet&theme=vision-friendly-dark)](https://git.io/streak-stats)-->
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=userofmeet&show_icons=true&theme=vision-friendly-dark&border_color=FFFFFF)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=userofmeet&show_icons=true&theme=vision-friendly-dark&border_color=FFFFFF)-->
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=userofmeet&layout=compact&theme=vision-friendly-dark&border_color=FFFFFF)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=userofmeet&layout=compact&theme=vision-friendly-dark&border_color=FFFFFF)-->
 
 <!-- GitHub Activity Graph -->
-[![Meet's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=userofmeet&theme=github-compact&title_color=ffa500&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<!-- [![Meet's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=userofmeet&theme=github-compact&title_color=ffa500&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=userofmeet&theme=apprentice)<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=userofmeet&theme=apprentice) &nbsp; &nbsp;
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=userofmeet&theme=apprentice)
 </div>
 
 
