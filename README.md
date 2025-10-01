@@ -61,16 +61,6 @@ Meet Jain:
 
     hobbies: [ Cubing, Cycling, Gaming, Trekking ]
 ```
-
-
-<!--code: [HTML, CSS, Javascript, C, Python, Java],
-  tools: [React, Node, Express],
-  database: [MongoDB, MySQL],
-  I'm a  currently pursuing a Bachelor's degree in Engineering at , India.
-- 💻 I'm proficient in development, with experience in technologies like Technologies.
-- 🌐 I love building dynamic and responsive web applications that deliver seamless user experiences.
-- 🚀 Always eager to collaborate on exciting projects and contribute to open-source communities.
--->
 <br>
 
 # :briefcase: Experience
@@ -158,6 +148,7 @@ Meet Jain:
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-FF5722?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-02569B?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
 ![QGroundControl](https://img.shields.io/badge/QGroundControl-1976D2?style=for-the-badge)
 ![MissionPlanner](https://img.shields.io/badge/MissionPlanner-0288D1?style=for-the-badge)
 ![KiCAD](https://img.shields.io/badge/KiCAD-314CB6?style=for-the-badge)
@@ -185,68 +176,7 @@ Meet Jain:
 
 # 📊 My Stats
 <div align="left">
-
-
-<!-- GitHub Streak -->
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=userofmeet&theme=vision-friendly-dark)](https://git.io/streak-stats)-->
-
-<!-- GitHub Stats -->
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=userofmeet&show_icons=true&theme=vision-friendly-dark&border_color=FFFFFF)-->
-
-<!-- Top Languages -->
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=userofmeet&layout=compact&theme=vision-friendly-dark&border_color=FFFFFF)-->
-
-<!-- GitHub Activity Graph -->
-<!-- [![Meet's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=userofmeet&theme=github-compact&title_color=ffa500&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=userofmeet&theme=apprentice)<br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=userofmeet&theme=apprentice) &nbsp; &nbsp;
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=userofmeet&theme=apprentice)
 </div>
-
-
-<!--
-userofmeet/userofmeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-<h1>$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$ </h1>
---->
-
-<!--```yaml
-Sree Vishnu Varthini:
-  pronouns: "she" | "her"
-  located_in: Coimbatore, India
-  title: "Full-Stack Developer"
-
-  skills:
-    [
-       web-development : [ HTML, CSS, Javascript, React.js, Express.js, Node.js]
-       programming: [ C, Java, Python, Data Structures]
-       database: [ MongoDB, MySQL]
-    ]
-
-  education: 
-    - "Bachelor's in Electronics and Communication Engineering"
-    - "Sri Eshwar College Of Engineering"
-    - 2022 - 2026
-
-  technical_experience:
-    - "Intern - MERN Stack, RampeX Technologies"
-    - "Intern - Web Development, Octanet Services"
-    - "Intern - Embedded Systems, Emglitz Technologies"
-
-  fields_of_interests:
-    [
-      "Web Development"
-      "UI/UX"
-      "Artificial Intelligence"
-      "Prompt Engineering"
-    ]
-
-  professional_affiliations:
-    [
-      Secratary: "Toastmasters International"
-      Student_Member: "IEEE (Institute of Electrical and Electronics Engineers)"
-      Student_Member: "WIE (Women In Engineering)"
-    ]
-
-  hobbies: ["Reading", "Music", "Art"]
-``` -->
