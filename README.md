@@ -148,7 +148,7 @@ Meet Jain:
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-FF5722?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-02569B?style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-D83B01?style=for-the-badge) 
 ![QGroundControl](https://img.shields.io/badge/QGroundControl-1976D2?style=for-the-badge)
 ![MissionPlanner](https://img.shields.io/badge/MissionPlanner-0288D1?style=for-the-badge)
 ![KiCAD](https://img.shields.io/badge/KiCAD-314CB6?style=for-the-badge)
