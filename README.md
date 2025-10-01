@@ -181,11 +181,11 @@ Meet Jain:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Profile Details Card -->
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=userofmeet&theme=github_dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=userofmeet&theme=github_dark)<br>
 
 
 <!-- Repos per Language Card -->
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=userofmeet&theme=github_dark)
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=userofmeet&theme=github_dark) &nbsp; &nbsp;
 
 <!-- Stats Card -->
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=userofmeet&theme=github_dark)
