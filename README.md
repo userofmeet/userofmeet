@@ -65,6 +65,7 @@ Meet Jain:
 
 # :briefcase: Experience
 
+
 <details> 
   <summary> Firmware Development Intern, Marshee Pet Tech </summary>
   <ul>   <li> Developed embedded firmware in C/C++ for GPS, BLE, and UWB-based tracking systems </li> 
