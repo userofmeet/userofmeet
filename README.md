@@ -64,7 +64,15 @@ Meet Jain:
 <br>
 
 # :briefcase: Experience
-
+<details>
+  <summary> Academic Project Trainee, Physical Research Laboratory (PRL) </summary>
+  <ul>
+    <li> Contributing to the backend electronics of an Extreme-UV instrument for future planetary exploration missions. </li>
+    <li> Implementing data acquisition workflows including ADC configuration, sampling, and MCU-based data handling. </li>
+    <li> Supporting development of signal processing routines and storage/communication modules for digitized sensor data. </li>
+    <li> <strong>Tech Stack:</strong> <em> Embedded C, ADC, SPI/I2C, Microcontrollers, Digital Electronics, Data Processing </em> </li>
+  </ul>
+</details>
 
 <details> 
   <summary> Firmware Development Intern, Marshee Pet Tech </summary>
