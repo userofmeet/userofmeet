@@ -2,8 +2,13 @@
   Hello there! :wave: I'm Meet Jain
 </h1>
 
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=userofmeet&label=Profile%20views&color=010b13&style=flat" alt="userofmeet" style="width: 130px; height: auto;" />
+</p>
+
+<p align="center">
+  <em>Code, projects, procrastination</em>
 </p>
 
 <div id="header" align="center">
