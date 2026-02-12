@@ -38,7 +38,7 @@ Meet Jain:
           institution: Dharmsinh Desai University
           location: Nadiad, India
           duration: 2022 - 2026
-          CGPA: 9.22/10
+          CGPA: 9.16/10
 
       - 12th Board (CBSE):
           institution: Green Valley High School
@@ -69,7 +69,7 @@ Meet Jain:
   <summary> Academic Project Trainee, Physical Research Laboratory (PRL) </summary>
   <ul>
     <li> Contributing to the backend electronics of an Extreme-UV instrument for future planetary exploration missions. </li>
-    <li> Implementing data acquisition workflows including ADC configuration, sampling, and MCU-based data handling. </li>
+    <li> Implementing data acquisition workflows including ADC configuration and MCU-based data handling. </li>
     <li> Supporting development of signal processing routines and storage/communication modules for digitized sensor data. </li>
     <li> <strong>Tech Stack:</strong> <em> Embedded C, ADC, SPI/I2C, Microcontrollers, Digital Electronics, Data Processing </em> </li>
   </ul>
