@@ -1,5 +1,5 @@
 <h1>
-  Hello there! :wave: I'm Meet Jain
+  Hello there! I'm Meet Jain
 </h1>
 
 
@@ -20,7 +20,7 @@
   </a>
 </div>
 
-# :sparkles: About Me
+# About Me
 
 ```yaml
 Meet Jain:
@@ -64,7 +64,7 @@ Meet Jain:
 ```
 <br>
 
-# :briefcase: Experience
+# Experience
 <details>
   <summary> Academic Project Trainee, Physical Research Laboratory (PRL) </summary>
   <ul>
@@ -91,7 +91,7 @@ Meet Jain:
 
 <br>
 
-# :star2: My Projects
+# My Projects
 <details> 
   <summary> SUB-EX </summary>
     <ul> <li> Submarine Explorer for Underwater Body EXamination, a crack detection ROV </li> 
@@ -139,7 +139,7 @@ Meet Jain:
 
 <br>
 
-# ⚒️: Languages and Tools:
+# Languages and Tools:
 <div>
 
 ### Programming Languages:
@@ -175,7 +175,7 @@ Meet Jain:
 </div>
 <br>
 
-# 🌐: Connect with me:
+# Connect with me:
 <p align="left">
  <a href="mailto:meetjain538@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="35" /></a>
 <a href="https://linkedin.com/in/userofmeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="userofmeet" height="30" width="40" /></a>
@@ -185,7 +185,7 @@ Meet Jain:
 <br>
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Profile Details Card -->
