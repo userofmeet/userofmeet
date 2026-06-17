@@ -34,6 +34,12 @@ Meet Jain:
                                           Multisim, STM32, STM32CubeIDE, OpenCV, QGroundControl, Raspberry Pi, Scilab ]
 
     education:
+      - Master's in Electronic Systems:
+          institution: Indian Institue of Technology Bombay
+          location: Mumbai, India
+          duration: 2026 - 2029
+          CGPA: 0.00/10
+
       - Bachelor's in Electronics and Communication Engineering:
           institution: Dharmsinh Desai University
           location: Nadiad, India
