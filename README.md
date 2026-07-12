@@ -79,17 +79,17 @@ M.Tech + Project Research Student at IIT Bombay, working in Analog & Mixed-Signa
 ## Experience
 
 **Project Research Assistant — Indian Institute of Technology Bombay,**
-*August 2026 – Present*
+*[August 2026 – Present]*
 
 Working under Prof. Maryam Shojaei Baghini on a project titled "CMOS IC Design and System Prototyping for Magnetic Field Sensing," as part of my M.Tech thesis. The project involves designing, developing, testing, and prototyping a magnetic field sensing system in two parts: an electronic system built around COTS Hall-effect sensor ICs, and a novel CMOS signal conditioning IC for Hall-effect based magnetic sensing targeted at a defined set of applications.
 
 **Academic Project Trainee — Physical Research Laboratory,**
-*December 2025 – May 2026*
+*[December 2025 – May 2026]*
 
 Designed and developed the backend electronics of a Optical Photometer meant for ozone quantification at the Martian surface for the upcoming Mars Lander Mission, with a focus on the analog side of the system. Work involved implementing data acquisition workflows including ADC configuration and MCU-based data handling, as well as supporting the development of signal processing routines and storage/communication modules for digitized sensor data.
 
-**Firmware Development Intern — Marshee Pet Tech**
-*April 2025 – July 2025*
+**Firmware Development Intern — Marshee Pet Tech,**
+*[April 2025 – July 2025]*
 
 Contributed to embedded firmware in C/C++ for GPS, BLE, and UWB-based tracking systems used in location-based pet safety devices, working closely with the hardware team on real-time integration and debugging. Also contributed to UI/UX integration for device interaction alongside cross-functional teams.
 
