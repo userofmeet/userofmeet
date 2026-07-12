@@ -21,7 +21,7 @@ M.Tech + Project Research Student at IIT Bombay, working in Analog & Mixed-Signa
 <table>
   <tr>
     <td><strong>Location</strong></td>
-    <td>Mumbai, India</td>
+    <td>Vadodara, India</td>
   </tr>
   <tr>
     <td><strong>Focus Areas</strong></td>
@@ -33,7 +33,7 @@ M.Tech + Project Research Student at IIT Bombay, working in Analog & Mixed-Signa
   </tr>
   <tr>
     <td><strong>Interests</strong></td>
-    <td>Cubing, Cycling, Gaming, Trekking</td>
+    <td>Cycling, Cubing, Gaming, Trekking</td>
   </tr>
 </table>
 
@@ -49,16 +49,16 @@ M.Tech + Project Research Student at IIT Bombay, working in Analog & Mixed-Signa
     <th align="left">Score</th>
   </tr>
   <tr>
-    <td>M.Tech + Project Research Student, Analog VLSI Design</td>
+    <td>M.Tech, Electronic Systems</td>
     <td>Indian Institute of Technology Bombay</td>
     <td>2026 – 2029</td>
     <td>—</td>
   </tr>
   <tr>
-    <td>B.E., Electronics & Communication Engg.</td>
+    <td>B.Tech, Electronics & Communication Engg.</td>
     <td>Dharmsinh Desai University</td>
     <td>2022 – 2026</td>
-    <td>9.16 / 10</td>
+    <td>9.18 / 10</td>
   </tr>
   <tr>
     <td>12th Board (CBSE)</td>
@@ -78,20 +78,20 @@ M.Tech + Project Research Student at IIT Bombay, working in Analog & Mixed-Signa
 
 ## Experience
 
-**Project Research Assistant — Indian Institute of Technology Bombay**
+**Project Research Assistant — Indian Institute of Technology Bombay,**
 *August 2026 – Present*
 
-Working under Prof. Maryam Shojaei Baghini on a project titled "CMOS IC Design and System Prototyping for Magnetic Field Sensing," spanning the Electronic Systems (EE 5) and Integrated Circuits & Systems (EE 6) specializations. The project involves designing, developing, testing, and prototyping a magnetic field sensing system in two parts: an electronic system built around commercially available Hall-effect sensor ICs, and a novel CMOS signal conditioning IC for Hall-effect based magnetic sensing targeted at a defined set of applications.
+Working under Prof. Maryam Shojaei Baghini on a project titled "CMOS IC Design and System Prototyping for Magnetic Field Sensing," as part of my M.Tech thesis. The project involves designing, developing, testing, and prototyping a magnetic field sensing system in two parts: an electronic system built around COTS Hall-effect sensor ICs, and a novel CMOS signal conditioning IC for Hall-effect based magnetic sensing targeted at a defined set of applications.
 
-**Academic Project Trainee — Physical Research Laboratory (PRL)**
+**Academic Project Trainee — Physical Research Laboratory,**
 *December 2025 – May 2026*
 
-Contributed to the backend electronics of an Extreme-UV instrument built for future planetary exploration missions, with a focus on the analog and mixed-signal side of the system. Work involved implementing data acquisition workflows including ADC configuration and MCU-based data handling, as well as supporting the development of signal processing routines and storage/communication modules for digitized sensor data.
+Designed and developed the backend electronics of a Optical Photometer meant for ozone quantification at the Martian surface for the upcoming Mars Lander Mission, with a focus on the analog side of the system. Work involved implementing data acquisition workflows including ADC configuration and MCU-based data handling, as well as supporting the development of signal processing routines and storage/communication modules for digitized sensor data.
 
 **Firmware Development Intern — Marshee Pet Tech**
 *April 2025 – July 2025*
 
-Developed embedded firmware in C/C++ for GPS, BLE, and UWB-based tracking systems used in location-based pet safety devices, working closely with the hardware team on real-time integration and debugging. Also contributed to UI/UX integration for device interaction alongside cross-functional teams.
+Contributed to embedded firmware in C/C++ for GPS, BLE, and UWB-based tracking systems used in location-based pet safety devices, working closely with the hardware team on real-time integration and debugging. Also contributed to UI/UX integration for device interaction alongside cross-functional teams.
 
 <br>
 
@@ -104,11 +104,11 @@ Developed embedded firmware in C/C++ for GPS, BLE, and UWB-based tracking system
   </tr>
   <tr>
     <td><strong>Programming Languages</strong></td>
-    <td>Verilog, C, C++, Python, Assembly</td>
+    <td>C, C++, Python, Assembly</td>
   </tr>
   <tr>
     <td><strong>Circuit Design & EDA Tools</strong></td>
-    <td>LTspice, Multisim, Microwind, KiCAD, EasyEDA, Flux.ai, Scilab</td>
+    <td>LTspice, XSCHEM, Multisim, Altium Designer, KiCAD, </td>
   </tr>
   <tr>
     <td><strong>Embedded Systems</strong></td>
