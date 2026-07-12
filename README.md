@@ -1,193 +1,129 @@
-<h1>
-  Hello there! I'm Meet Jain
-</h1>
+<div align="center">
 
+# Hi, I'm Meet Jain
+### Analog & Mixed-Signal VLSI Design
 
-<!-- <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=userofmeet&label=Profile%20views&color=010b13&style=flat" alt="userofmeet" style="width: 130px; height: auto;" />
-</p> -->
+<img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="380"/>
 
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="450"/> <br>
-</div>
 <br>
-<div id="badges" align="center" >
-  <a href="https://www.linkedin.com/in/userofmeet/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:meetjain538@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/userofmeet/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meetjain538@gmail.com)
+
 </div>
 
-# About Me
-
-```yaml
-Meet Jain:
-    pronouns: he | him
-    located_in: Vadodara, India
-    title: Student
-  
-    skills:
-      -  programming: [ C, C++, Python, Assembly, Verilog ]
-      -  technical_tools_and_platforms: [ Arduino, Ardupilot, Easy EDA, ESP 32, ESP-IDF, Flux AI, KiCAD, LTspice, Microwind, 
-                                          Multisim, STM32, STM32CubeIDE, OpenCV, QGroundControl, Raspberry Pi, Scilab ]
-
-    education:
-      - Master's in Electronic Systems:
-          institution: Indian Institue of Technology Bombay
-          location: Mumbai, India
-          duration: 2026 - 2029
-          CGPA: 0.00/10
-
-      - Bachelor's in Electronics and Communication Engineering:
-          institution: Dharmsinh Desai University
-          location: Nadiad, India
-          duration: 2022 - 2026
-          CGPA: 9.16/10
-
-      - 12th Board (CBSE):
-          institution: Green Valley High School
-          location: Vadodara, India
-          year: 2022
-          percentage: 61%
-
-      - 10th Board (CBSE):
-          institution: Prince Ashokraje Gaekwad School
-          location: Vadodara, India
-          year: 2020
-          percentage: 89.8%
-  
-    fields_of_interests:
-      -  Embedded Design and Development Engineer
-      -  Robotics 
-      -  Artificial Intelligence
-  
-    professional_affiliations:
-      -  student_member: IEEE (Institute of Electrical and Electronics Engineers)
-
-    hobbies: [ Cubing, Cycling, Gaming, Trekking ]
-```
 <br>
 
-# Experience
-<details>
-  <summary> Academic Project Trainee, Physical Research Laboratory (PRL) </summary>
-  <ul>
-    <li> Contributing to the backend electronics of an Extreme-UV instrument for future planetary exploration missions. </li>
-    <li> Implementing data acquisition workflows including ADC configuration and MCU-based data handling. </li>
-    <li> Supporting development of signal processing routines and storage/communication modules for digitized sensor data. </li>
-    <li> <strong>Tech Stack:</strong> <em> Embedded C, ADC, SPI/I2C, Microcontrollers, Digital Electronics, Data Processing </em> </li>
-  </ul>
-</details>
+## About Me
 
-<details> 
-  <summary> Firmware Development Intern, Marshee Pet Tech </summary>
-  <ul>   <li> Developed embedded firmware in C/C++ for GPS, BLE, and UWB-based tracking systems </li> 
-    <li> Collaborated on real-time hardware integration and debugging for location-based pet safety. </li> 
-  <li> Collaborated with cross-functional teams and contributed to UI/UX integration for device interaction </li>
-  <li> <strong> Tech Stack:</strong><em> C/C++, BLE, GPS, UWB, FreeRTOS, Embedded Linux </em></li>
-    </details>
-  <details>  <summary> Presentation Head, Spectrum the Robotics Club </summary>
-  <ul>   <li>Led and coordinated 10+ club events, engaging 50+ participants per event.</li>
-<li>Trained 5+ team members on effective presentation techniques enhancing clarity.</li>
-<li>Collaborated with 4+ department heads to align presentations with overall goals</li>
-<li> <strong> Skills:</strong> <em> Adaptable, Detail-oriented, Effective listener, Presentation, Troubleshooting, Latex, Overleaf </em></li>
-</details>
+M.Tech + Project Research Student at IIT Bombay, working in Analog & Mixed-Signal VLSI Design. Coming from an electronics and embedded systems background, now focused on IC design, semiconductor devices, and analog circuits.
+
+<table>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Mumbai, India</td>
+  </tr>
+  <tr>
+    <td><strong>Focus Areas</strong></td>
+    <td>Analog & Mixed-Signal IC Design, VLSI / Semiconductor Devices, Embedded Systems (background)</td>
+  </tr>
+  <tr>
+    <td><strong>Affiliation</strong></td>
+    <td>IEEE Student Member</td>
+  </tr>
+  <tr>
+    <td><strong>Interests</strong></td>
+    <td>Cubing, Cycling, Gaming, Trekking</td>
+  </tr>
+</table>
 
 <br>
 
-# My Projects
-<details> 
-  <summary> SUB-EX </summary>
-    <ul> <li> Submarine Explorer for Underwater Body EXamination, a crack detection ROV </li> 
-    <li> Aims to detect cracks in submerged structures </li>
-    <li> 3D-printed ROV for crack detection in submerged structures </li>
-    <li> Designed to detect structural anomalies at an early stage </li> 
-    <li> <strong>Tech Stack:</strong> <em> Arduino, ESP32, QGroundControl, OpenCV, Pixhawk flight controller, Python, Raspberry Pi</em></li></ul> 
-</details>
+## Education
 
-<details>
-  <summary> ANAV </summary>
-    <ul><li>Autonomous Navigation for an Aerial Vehicle, IROC ISRO Challenge 2025</li>
-    <li> An autonomous navigation system for Martian environment</li>
-    <li>Implementing computer vision techniques for real-time crater detection to identify safe landing spots</li>
-    <li>Implementing computer vision techniques for real-time crater detection to identify safe landing spots</li>
-      <li>Tech Stack: IMU, MAVLink, OpenCV, Pixhawk flight controller, QGroundControl, Raspberry Pi 5</li></ul>
-</details>
-
-<details> 
-  <summary> X-CAM </summary>
-    <ul> <li>X-Controlled Autonomus Monitoring, an automated surveillance drone</li> 
-    <li> Aims to make drones totally autonomous. </li>
-    <li> Surveils a designated area </li> 
-    <li> Smart charging pad system that allows the drone to recharge autonomously </li>
-    <li><strong>Tech Stack:</strong> <em> APM 2.8 flight controller, Arduino, BMS circuit design, MissionPlanner </em></li></ul> 
-</details>
-
-<details> 
-  <summary> Braille Bot </summary>
-   <ul><li> Assistive device to help visually impaired individuals </li>
-   <li>Interactive interface to navigate through letters and sentence </li>
-   <li> Allows adjustment of translation speed for personalized use </li>
-   <li> Enhances accessibility and inclusion </li>
-   <li><strong>Tech Stack:</strong> <em>Arduino, Servo Motors</em> </li></ul> 
-</details>
-
-<details> 
-  <summary> Verilog Projects </summary>
-    <ul><li>Design hardware modules using Verilog for different digital systems</li>
-    <li>Enhance the modularity of the design, making it adaptable for varying system specifications</li>
-    <li> Develop Verilog testbenches to simulate and verify the behavior of the design modules under different scenarios </li>
-    <li>  Create input stimulus for the modules to test all possible cases </li>
-    <li><strong>Tech Stack:</strong> <em>Quartus, ModelSim</em></li></ul>
-</details>
+<table>
+  <tr>
+    <th align="left">Degree</th>
+    <th align="left">Institution</th>
+    <th align="left">Duration</th>
+    <th align="left">Score</th>
+  </tr>
+  <tr>
+    <td>M.Tech + Project Research Student, Analog VLSI Design</td>
+    <td>Indian Institute of Technology Bombay</td>
+    <td>2026 – 2029</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>B.E., Electronics & Communication Engg.</td>
+    <td>Dharmsinh Desai University</td>
+    <td>2022 – 2026</td>
+    <td>9.16 / 10</td>
+  </tr>
+  <tr>
+    <td>12th Board (CBSE)</td>
+    <td>Green Valley High School</td>
+    <td>2022</td>
+    <td>61%</td>
+  </tr>
+  <tr>
+    <td>10th Board (CBSE)</td>
+    <td>Prince Ashokraje Gaekwad School</td>
+    <td>2020</td>
+    <td>89.8%</td>
+  </tr>
+</table>
 
 <br>
 
-# Languages and Tools:
-<div>
+## Experience
 
-### Programming Languages:
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
+**Project Research Assistant — Indian Institute of Technology Bombay**
+*August 2026 – Present*
 
-### Tools & Platforms:
-![ESP32](https://img.shields.io/badge/ESP32-EA4335?style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge)
-![ESP-IDF](https://img.shields.io/badge/ESP--IDF-FF5722?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge)
-![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-02569B?style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-D83B01?style=for-the-badge) 
-![QGroundControl](https://img.shields.io/badge/QGroundControl-1976D2?style=for-the-badge)
-![MissionPlanner](https://img.shields.io/badge/MissionPlanner-0288D1?style=for-the-badge)
-![KiCAD](https://img.shields.io/badge/KiCAD-314CB6?style=for-the-badge)
-![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge)
-![Flux.ai](https://img.shields.io/badge/Flux.ai-FF6F61?style=for-the-badge)
+Working under Prof. Maryam Shojaei Baghini on a project titled "CMOS IC Design and System Prototyping for Magnetic Field Sensing," spanning the Electronic Systems (EE 5) and Integrated Circuits & Systems (EE 6) specializations. The project involves designing, developing, testing, and prototyping a magnetic field sensing system in two parts: an electronic system built around commercially available Hall-effect sensor ICs, and a novel CMOS signal conditioning IC for Hall-effect based magnetic sensing targeted at a defined set of applications.
 
-### Office Tools:
-![Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge)
-![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge)
-![Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge)
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge)
+**Academic Project Trainee — Physical Research Laboratory (PRL)**
+*December 2025 – May 2026*
 
+Contributed to the backend electronics of an Extreme-UV instrument built for future planetary exploration missions, with a focus on the analog and mixed-signal side of the system. Work involved implementing data acquisition workflows including ADC configuration and MCU-based data handling, as well as supporting the development of signal processing routines and storage/communication modules for digitized sensor data.
+
+**Firmware Development Intern — Marshee Pet Tech**
+*April 2025 – July 2025*
+
+Developed embedded firmware in C/C++ for GPS, BLE, and UWB-based tracking systems used in location-based pet safety devices, working closely with the hardware team on real-time integration and debugging. Also contributed to UI/UX integration for device interaction alongside cross-functional teams.
+
+<br>
+
+## Skills
+
+<table>
+  <tr>
+    <th align="left" width="240">Category</th>
+    <th align="left">Skills</th>
+  </tr>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>Verilog, C, C++, Python, Assembly</td>
+  </tr>
+  <tr>
+    <td><strong>Circuit Design & EDA Tools</strong></td>
+    <td>LTspice, Multisim, Microwind, KiCAD, EasyEDA, Flux.ai, Scilab</td>
+  </tr>
+  <tr>
+    <td><strong>Embedded Systems</strong></td>
+    <td>Arduino, ESP32, STM32, Raspberry Pi, ESP-IDF, STM32CubeIDE, OpenCV, Linux</td>
+  </tr>
+  <tr>
+    <td><strong>Documentation</strong></td>
+    <td>LaTeX, Overleaf, Microsoft Excel, PowerPoint, Word</td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,50:26d0ce,100:1a2980&height=100&section=footer" width="100%"/>
 </div>
-<br>
 
-
-# GitHub Stats:
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Profile Details Card -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=userofmeet&theme=github_dark)<br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=userofmeet&theme=github_dark) &nbsp; &nbsp;
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=userofmeet&theme=github_dark)
-
-</div>
+<!-- setup: repo name must be exactly "userofmeet" for this to show on your profile -->
