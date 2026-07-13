@@ -16,7 +16,7 @@
 
 ## About Me
 
-M.Tech + Project Research Student at IIT Bombay, working in Analog & Mixed-Signal VLSI Design. Coming from an electronics and embedded systems background, now focused on IC design, semiconductor devices, and analog circuits.
+M.Tech + Research Student at IIT Bombay, working in Analog & Mixed-Signal VLSI Design. Coming from an electronics and embedded systems background, now focused on IC design, semiconductor devices, and analog circuits.
 
 <table>
   <tr>
@@ -26,10 +26,6 @@ M.Tech + Project Research Student at IIT Bombay, working in Analog & Mixed-Signa
   <tr>
     <td><strong>Focus Areas</strong></td>
     <td>Analog & Mixed-Signal IC Design, VLSI / Semiconductor Devices, Embedded Systems (background)</td>
-  </tr>
-  <tr>
-    <td><strong>Affiliation</strong></td>
-    <td>IEEE Student Member</td>
   </tr>
   <tr>
     <td><strong>Interests</strong></td>
