@@ -16,7 +16,7 @@
 
 ## About Me
 
-M.Tech + Research Student at IIT Bombay, working in Analog & Mixed-Signal VLSI Design. Coming from an electronics and embedded systems background, now focused on IC design, semiconductor devices, and analog circuits.
+M.Tech + Research Assistant at IIT Bombay, working in Analog & Mixed-Signal VLSI Design. Coming from an electronics and embedded systems background, now focused on IC design, semiconductor devices, and analog circuits.
 
 <table>
   <tr>
@@ -74,10 +74,10 @@ M.Tech + Research Student at IIT Bombay, working in Analog & Mixed-Signal VLSI D
 
 ## Experience
 
-**Project Research Assistant — Indian Institute of Technology Bombay,**
+**Research Assistant — Indian Institute of Technology Bombay,**
 *[August 2026 – Present]*
 
-Working under Prof. Maryam Shojaei Baghini on a project titled "CMOS IC Design and System Prototyping for Magnetic Field Sensing," as part of my M.Tech thesis. The project involves designing, developing, testing, and prototyping a magnetic field sensing system in two parts: an electronic system built around COTS Hall-effect sensor ICs, and a novel CMOS signal conditioning IC for Hall-effect based magnetic sensing targeted at a defined set of applications.
+Working under Prof. Maryam Shojaei Baghini on a project titled "CMOS IC Design and System Prototyping for Magnetic Field Sensing," as part of my M.Tech thesis. The project involves designing, developing, testing, and prototyping a magnetic field sensing system in two parts: an electronic system built around commercially available Hall-effect sensor ICs, and a novel CMOS signal conditioning IC for Hall-effect based magnetic sensing targeted at a defined set of applications.
 
 **Academic Project Trainee — Physical Research Laboratory,**
 *[December 2025 – May 2026]*
