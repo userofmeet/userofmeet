@@ -16,7 +16,7 @@
 
 ## About Me
 
-M.Tech + Research Assistant at IIT Bombay, working in Analog & Mixed-Signal VLSI Design. Coming from an electronics and embedded systems background, now focused on IC design, semiconductor devices, and analog circuits.
+M.Tech + Research Assistant at IIT Bombay, working in Analog & Mixed-Signal VLSI Design. Coming from an electronics and embedded systems background, now focused on IC design and analog circuits.
 
 <table>
   <tr>
@@ -25,7 +25,7 @@ M.Tech + Research Assistant at IIT Bombay, working in Analog & Mixed-Signal VLSI
   </tr>
   <tr>
     <td><strong>Focus Areas</strong></td>
-    <td>Analog & Mixed-Signal IC Design, VLSI / Semiconductor Devices, Embedded Systems (background)</td>
+    <td>Analog & Mixed-Signal VLSI Design, Embedded Systems (background)</td>
   </tr>
   <tr>
     <td><strong>Interests</strong></td>
