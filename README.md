@@ -21,7 +21,7 @@ M.Tech + Research Assistant at IIT Bombay, working in Analog & Mixed-Signal VLSI
 <table>
   <tr>
     <td><strong>Location</strong></td>
-    <td>Vadodara, India</td>
+    <td>Vadodara, Gujarat, India</td>
   </tr>
   <tr>
     <td><strong>Focus Areas</strong></td>
@@ -112,7 +112,7 @@ Contributed to embedded firmware in C/C++ for GPS, BLE, and UWB-based tracking s
   </tr>
   <tr>
     <td><strong>Documentation</strong></td>
-    <td>LaTeX, Overleaf, Microsoft Excel, PowerPoint, Word</td>
+    <td>LaTeX, Excel, PowerPoint, Word</td>
   </tr>
 </table>
 
